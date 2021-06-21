@@ -6,6 +6,10 @@ The code is basically divided into two parts where the "MagnusMain.py" file is d
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/69822926/122716210-98265900-d287-11eb-8c45-6780641cff15.png)
+
 ![2021-06-21](https://user-images.githubusercontent.com/69822926/122716656-2ac6f800-d288-11eb-894b-2fc1c4c91e58.png)
+
+![2021-06-21 (3)](https://user-images.githubusercontent.com/69822926/122717040-ae80e480-d288-11eb-95c4-6008653230e4.png)
+
 ![image](https://user-images.githubusercontent.com/69822926/122716693-34506000-d288-11eb-8d93-7896a1a4d70e.png)
 
